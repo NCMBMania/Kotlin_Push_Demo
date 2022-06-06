@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124377197324",
+    "project_id": "ncmb-push-42c33",
+    "storage_bucket": "ncmb-push-42c33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124377197324:android:6efb43e7c001ef192a7729",
+        "android_client_info": {
+          "package_name": "jp.moongift.ncmb.pushdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124377197324-0fn0pntc0c5bof7bk00tagi15a88mbai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk5pWX9v-wZby1wiXTz9nwP7_K78Vb65w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124377197324-0fn0pntc0c5bof7bk00tagi15a88mbai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
